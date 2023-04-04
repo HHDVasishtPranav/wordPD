@@ -1,0 +1,32 @@
+{
+  "name": "awordperday",
+  "version": "1.0.0",
+  "description": "this code belongs to vasisht pranav. This is code going to select a  random word and its info to gmails from my outlook account. Thiis is a private project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "U. H H D Vasisht Pranav",
+  "license": "ISC",
+  "dependencies": {
+    "a-set-of-english-words": "^1.0.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.3",
+    "node": "^19.8.1",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "random-number": "^0.0.9",
+    "random-word": "^2.0.0",
+    "thesaurus": "^0.0.1",
+    "thesaurus-com": "^1.2.3",
+    "wordlist-english": "^1.2.1"
+  },
+  "devDependencies": {}
+}
